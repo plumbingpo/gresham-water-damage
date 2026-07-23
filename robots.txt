@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://greshamrestoration.com/sitemap.xml
